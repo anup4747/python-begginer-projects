@@ -1,2 +1,2 @@
-print("ssss")4aasf
-print("hello world")adsga
+print("ssss")
+print("hello world")
