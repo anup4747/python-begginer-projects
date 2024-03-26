@@ -4,8 +4,8 @@ import cv2
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 #Reading the Input Image
-# image= cv2.imread('1.jpg')
-image= cv2.imread('1.png')
+image= cv2.imread('1.jpg')
+# image= cv2.imread('1.png')
 
 #Resizing the Image
 img = cv2.resize(image,None,fx=0.3,fy=0.3)
